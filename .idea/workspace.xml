@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="448307b4-8f3e-48b6-9ddd-a119c9af196e" name="Default" comment="" />
+    <list default="true" id="448307b4-8f3e-48b6-9ddd-a119c9af196e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/DequeTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Deque$Node.class" afterPath="$PROJECT_DIR$/target/classes/Deque$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Permutation.class" afterPath="$PROJECT_DIR$/target/classes/Permutation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/RandomizedQueue.class" afterPath="$PROJECT_DIR$/target/classes/RandomizedQueue.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Deque.java" afterPath="$PROJECT_DIR$/src/main/java/Deque.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Permutation.java" afterPath="$PROJECT_DIR$/src/main/java/Permutation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/RandomizedQueue.java" afterPath="$PROJECT_DIR$/src/main/java/RandomizedQueue.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,66 +24,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Percolation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Percolation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-              <folding>
-                <element signature="method#Percolation#0;class#Percolation#0" expanded="false" />
-                <element signature="method#assertParams#0;class#Percolation#0" expanded="false" />
-                <element signature="method#open#0;class#Percolation#0" expanded="false" />
-                <element signature="method#isOpen#0;class#Percolation#0" expanded="false" />
-                <element signature="method#isFull#0;class#Percolation#0" expanded="false" />
-                <element signature="method#numberOfOpenSites#0;class#Percolation#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Deque.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Deque.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Deque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="205">
+              <caret line="118" column="26" lean-forward="true" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#Deque#0;class#Deque#0" expanded="false" />
+                <element signature="e#267#273#0" expanded="true" />
                 <element signature="method#addFirst#0;class#Deque#0" expanded="false" />
+                <element signature="e#746#752#0" expanded="true" />
                 <element signature="method#addLast#0;class#Deque#0" expanded="false" />
-                <element signature="method#removeFirst#0;class#Deque#0" expanded="false" />
-                <element signature="method#removeLast#0;class#Deque#0" expanded="false" />
+                <element signature="e#1207#1213#0" expanded="true" />
                 <element signature="class#DequeIterator#0;class#Deque#0" expanded="false" />
-                <element signature="e#2804#2805#0" expanded="true" />
-                <element signature="e#2845#2846#0" expanded="true" />
-                <element signature="e#2875#2876#0" expanded="true" />
-                <element signature="e#2919#2920#0" expanded="true" />
-                <element signature="e#2951#2952#0" expanded="true" />
-                <element signature="e#3016#3017#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomizedQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RandomizedQueue.java">
+      <file leaf-file-name="DequeTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DequeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="336">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#170#179#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Permutation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Permutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -80,31 +58,11 @@
       <file leaf-file-name="PercolationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PercolationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+            <state relative-caret-position="105">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeightedQuickUnionUF.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/edu/princeton/cs/algs4/algs4/1.0/algs4-1.0.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -118,6 +76,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -129,12 +90,13 @@
         <option value="$PROJECT_DIR$/src/Percolation.java" />
         <option value="$MAVEN_REPOSITORY$/edu/princeton/cs/algs4/algs4/1.0/algs4-1.0.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.class" />
         <option value="$PROJECT_DIR$/src/main/java/PercolationStats.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/PercolationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Percolation.java" />
         <option value="$PROJECT_DIR$/src/main/java/SuccessorWithDelete.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/RandomizedQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DequeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Deque.java" />
       </list>
     </option>
@@ -146,11 +108,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1702" />
-    <option name="y" value="25" />
-    <option name="width" value="1858" />
-    <option name="height" value="1096" />
+    <option name="x" value="1808" />
+    <option name="y" value="1" />
+    <option name="width" value="1485" />
+    <option name="height" value="870" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -194,6 +157,19 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AlgorithmsCoursera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsCoursera" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsCoursera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsCoursera" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -221,7 +197,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PercolationTest.test">
+  <component name="RunManager" selected="JUnit.DequeTest.test1">
+    <configuration name="DequeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="AlgorithmsCoursera" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DequeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="AlgorithmsCoursera" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="PercolationStats" />
@@ -255,6 +271,20 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmsCoursera" />
+      <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -337,14 +367,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.PercolationStats" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.PercolationTest.test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Permutation" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DequeTest.test1" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.DequeTest" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PercolationTest.test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PercolationStats" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DequeTest.test1" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DequeTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Permutation" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PercolationTest.test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PercolationStats" />
       </list>
     </recent_temporary>
   </component>
@@ -363,43 +399,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511925161216</updated>
-      <workItem from="1511925224523" duration="14632000" />
+      <workItem from="1511925224523" duration="25441000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PercolationTest_test - 2017.11.29 at 12h 53m 54s.xml">
-      <configuration name="PercolationTest.test" configurationId="JUnit" />
+    <history-entry file="DequeTest - 2017.11.30 at 14h 56m 08s.xml">
+      <configuration name="DequeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_test - 2017.11.29 at 12h 55m 58s.xml">
-      <configuration name="PercolationTest.test" configurationId="JUnit" />
+    <history-entry file="DequeTest_test1 - 2017.11.30 at 14h 37m 08s.xml">
+      <configuration name="DequeTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_test - 2017.11.29 at 12h 57m 37s.xml">
-      <configuration name="PercolationTest.test" configurationId="JUnit" />
+    <history-entry file="DequeTest_test1 - 2017.11.30 at 14h 37m 25s.xml">
+      <configuration name="DequeTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_test - 2017.11.29 at 12h 59m 01s.xml">
-      <configuration name="PercolationTest.test" configurationId="JUnit" />
+    <history-entry file="DequeTest_test1 - 2017.11.30 at 14h 40m 37s.xml">
+      <configuration name="DequeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DequeTest_test1 - 2017.11.30 at 14h 55m 11s.xml">
+      <configuration name="DequeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DequeTest_test1 - 2017.11.30 at 14h 56m 36s.xml">
+      <configuration name="DequeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DequeTest_test1 - 2017.11.30 at 14h 57m 41s.xml">
+      <configuration name="DequeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DequeTest_test1 - 2017.11.30 at 15h 01m 56s.xml">
+      <configuration name="DequeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DequeTest_test1 - 2017.11.30 at 15h 03m 27s.xml">
+      <configuration name="DequeTest.test1" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PercolationTest_test - 2017.11.29 at 13h 03m 22s.xml">
       <configuration name="PercolationTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14632000" />
+    <option name="totallyTimeSpent" value="25441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1990" y="-8" width="1858" height="1096" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33056134" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3322851" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -409,7 +460,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -427,9 +478,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="12" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="deque" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/edu/princeton/cs/algs4/algs4/1.0/algs4-1.0.jar!/edu/princeton/cs/algs4/StdStats.class">
@@ -443,34 +498,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="385" column="15" lean-forward="false" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/edu/princeton/cs/algs4/algs4/1.0/algs4-1.0.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/edu/princeton/cs/algs4/algs4/1.0/algs4-1.0.jar!/edu/princeton/cs/algs4/StdRandom.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -483,28 +514,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PercolationStats.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SuccessorWithDelete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#PercolationStats#0;class#PercolationStats#0" expanded="false" />
-            <element signature="method#Run#0;class#PercolationStats#0" expanded="false" />
-            <element signature="method#confidenceLo#0;class#PercolationStats#0" expanded="false" />
-            <element signature="method#confidenceHi#0;class#PercolationStats#0" expanded="false" />
-            <element signature="method#main#0;class#PercolationStats#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PercolationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -523,51 +537,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SuccessorWithDelete.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PercolationStats.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#PercolationStats#0;class#PercolationStats#0" expanded="false" />
+            <element signature="method#Run#0;class#PercolationStats#0" expanded="false" />
+            <element signature="method#confidenceLo#0;class#PercolationStats#0" expanded="false" />
+            <element signature="method#confidenceHi#0;class#PercolationStats#0" expanded="false" />
+            <element signature="method#main#0;class#PercolationStats#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="385" column="15" lean-forward="false" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/edu/princeton/cs/algs4/algs4/1.0/algs4-1.0.jar!/edu/princeton/cs/algs4/StdRandom.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/edu/princeton/cs/algs4/algs4/1.0/algs4-1.0.jar!/edu/princeton/cs/algs4/StdIn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="e#1945#1946#0" expanded="true" />
+            <element signature="e#1982#1983#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#227#235#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RandomizedQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="1302">
+          <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
           <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="class#Node#0;class#RandomizedQueue#0" expanded="false" />
+            <element signature="e#319#325#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#810#816#0" expanded="true" />
+            <element signature="e#2315#2316#0" expanded="true" />
+            <element signature="e#2367#2368#0" expanded="true" />
+            <element signature="e#2474#2475#0" expanded="true" />
+            <element signature="e#2515#2516#0" expanded="true" />
+            <element signature="e#2545#2546#0" expanded="true" />
+            <element signature="e#2585#2586#0" expanded="true" />
+            <element signature="e#2617#2618#0" expanded="true" />
+            <element signature="e#2682#2683#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PercolationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Deque.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="205">
+          <caret line="118" column="26" lean-forward="true" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#Deque#0;class#Deque#0" expanded="false" />
+            <element signature="e#267#273#0" expanded="true" />
             <element signature="method#addFirst#0;class#Deque#0" expanded="false" />
+            <element signature="e#746#752#0" expanded="true" />
             <element signature="method#addLast#0;class#Deque#0" expanded="false" />
-            <element signature="method#removeFirst#0;class#Deque#0" expanded="false" />
-            <element signature="method#removeLast#0;class#Deque#0" expanded="false" />
+            <element signature="e#1207#1213#0" expanded="true" />
             <element signature="class#DequeIterator#0;class#Deque#0" expanded="false" />
-            <element signature="e#2804#2805#0" expanded="true" />
-            <element signature="e#2845#2846#0" expanded="true" />
-            <element signature="e#2875#2876#0" expanded="true" />
-            <element signature="e#2919#2920#0" expanded="true" />
-            <element signature="e#2951#2952#0" expanded="true" />
-            <element signature="e#3016#3017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DequeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#170#179#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -2,10 +2,10 @@ import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 public class Deque<Item> implements Iterable<Item> {
-    private class Node<T> {
-        T item;
-        Node<T> nxt;
-        Node<T> prv;
+    private class Node<Item> {
+        Item item;
+        Node<Item> nxt;
+        Node<Item> prv;
     }
 
     private Node<Item> _dummy = new Node<Item>();
@@ -89,6 +89,8 @@ public class Deque<Item> implements Iterable<Item> {
 
             _first = _dummy;
             _last = _dummy;
+
+            _dummy.nxt = null;
         }
         else {
             _dummy.nxt = _first.nxt;
@@ -120,6 +122,8 @@ public class Deque<Item> implements Iterable<Item> {
 
             _first = _dummy;
             _last = _dummy;
+
+            _dummy.nxt = null;
         }
         else {
             Node<Item> tmpLast = _last.prv;
